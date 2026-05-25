@@ -89,11 +89,11 @@ Priority orders are always served before regular ones, regardless of placement t
 
 ##  Authors
 
-Course: **CCCS 224 — Data Structures** · Section E3
+Course: **CCCS 224 — Data Structures** 
 
-- Enas Hamed AlQarni (2314104)
-- Jana Akkad (2313200)
-- Abrar Alharbi (2317129)
+- Enas Hamed AlQarni 
+- Jana Akkad 
+- Abrar Alharbi 
 
 ##  License
 
