@@ -96,8 +96,7 @@ Course: **CCCS 224 — Data Structures**
 - Abrar Alharbi 
 
 ##  Documentation
-
-See [Project Report](report/Data Structure Project.pdf) for detailed walkthroughs, screenshots, and test runs.
+See [Project Report](report/Data_Structure_Project.pdf) for detailed walkthroughs, screenshots, and test runs.
 
 ##  License
 
